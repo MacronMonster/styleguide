@@ -1,0 +1,70 @@
+h1{
+    font-family: sauna-new, sans-serif;
+    font-weight: 100000;
+    font-style: normal;
+}
+
+h3, h4, #montserrat-black{
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+h6, p, li{
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+span{
+    font-weight: bold;
+}
+
+h6{
+    padding: 60px 60px;
+    margin: 10px 10px;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+h6.dark{
+    color: white;
+}
+
+#choco{
+    background-color: #765B53;
+}
+#hazel{
+    background-color: #845243;
+}
+#pink{
+    background-color: #DAA27C;
+}
+#light-brown{
+    background-color: #FFB800;
+}
+#yellow{
+    background-color: #FF9BD8;
+}
+#green{
+    background-color: #3DA848;
+}
+
+.sauna{
+    font-family: sauna-new, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.sauna-reg{
+    font-family: sauna-new, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    line-height: .25
+}
